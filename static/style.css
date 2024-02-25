@@ -1,0 +1,13 @@
+body{
+    /* background-color: aliceblue; */
+    align-items: center;
+    padding: 2.5vw 0;
+}
+
+.concept-form button{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    background-color: rebeccapurple;
+}
